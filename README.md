@@ -1,3 +1,3 @@
   # c
 
- <p>Vue2.0 + svue-router + axios + Element UI + Mock.js</p>
+ <p>Vue2.0 + vue-router + axios + Element UI + Mock.js</p>
